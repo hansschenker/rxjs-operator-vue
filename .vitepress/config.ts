@@ -24,6 +24,7 @@ export default withMermaid(defineConfig({
         items: [
           { text: 'filter', link: '/operators/filter' },
           { text: 'debounceTime', link: '/operators/debounceTime' },
+          { text: 'distinctUntilChanged', link: '/operators/distinctUntilChanged' },
           { text: 'takeUntil', link: '/operators/takeUntil' }
         ]
       },
