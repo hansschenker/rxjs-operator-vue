@@ -16,7 +16,8 @@ export default withMermaid(defineConfig({
           { text: 'map', link: '/operators/map' },
           { text: 'mergeMap', link: '/operators/mergeMap' },
           { text: 'switchMap', link: '/operators/switchMap' },
-          { text: 'concatMap', link: '/operators/concatMap' }
+          { text: 'concatMap', link: '/operators/concatMap' },
+          { text: 'scan', link: '/operators/scan' }
         ]
       },
       {
